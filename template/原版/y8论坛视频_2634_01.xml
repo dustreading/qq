@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg serviceID="6" templateID="14" action="web" brief="[侠客行论坛视频]" sourceMsgId="0" url="http://hao6.xyz/mp4/test.mp4" flag="0" adverSign="0" multiMsgFlag="0">
+  <item layout="5" bg="#卡片文字随机颜色"><video cover="http://t.cn/Rdb5HjT" src="http://hao6.xyz/mp4/test.mp4" preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0"/>
+    <summary></summary>
+  </item>
+  <item layout="6" bg="#卡片文字随机颜色">
+    <summary color="×FFB5C5">侠客行论坛</summary>
+  </item><source name="侠客侠客侠客行" icon="http://hao6.xyz/img/logo.png" url="http://hao6.xyz" action="web" appid="0"/></msg>

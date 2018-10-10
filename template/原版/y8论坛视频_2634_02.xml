@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg serviceID="23" templateID="1" action="web" brief="侠客行论坛" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0">
+  <item layout="5">
+    <video cover="http://ww1.sinaimg.cn/large/005BYqpggy1fvhccp77vnj31hc0u018e.jpg" src="http://hao6.xyz/mp4/test.mp4" preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0"/>
+    <title></title>
+  </item>
+  <source name="百度:侠客行论坛" icon="http://ww1.sinaimg.cn/large/005BYqpggy1fvhchdolnaj30iq0iq75b.jpg" url="" action="web" appid="-1"/>
+</msg>

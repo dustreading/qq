@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<msg serviceID="4" templateID="2" action="web" brief="极品网红骚货玉儿开档黑丝" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0">
+
+  <item layout="5">
+    <video
+    cover="http://gchat.qpic.cn/gchatpic_new/0/0-0-6101D4398B5D52D499D6DBB346D2EF6E/0?"
+    src="http://video.momocdn.com/feedvideo/C3/8E/C38E1EF3-DE58-502B-C683-B7C0F49B5CCC20180825.mp4"
+    preStartPosi="0"
+    preTime="0"
+    preWidth="0"
+    preHeight="0"
+    fullTime="0"
+    busiType="0"
+    isJump2Web="0"/>
+
+    <title>极品网红骚货玉儿开档黑丝</title>
+  </item>
+
+  <source
+    name="百姓头条"
+    icon="https://url.cn/59QvRWO"
+    url="https://www.baidu.com"
+    action="web"
+    appid="-1"/>
+
+</msg>

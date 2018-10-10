@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<msg serviceID="23" templateID="1" brief="侠客行论坛">
+  <item layout="5">
+    <video
+      cover="http://ww1.sinaimg.cn/large/005BYqpggy1fvhccp77vnj31hc0u018e.jpg"
+      src="http://suo.im/5gmsjv"/>
+  </item>
+  <source
+    name="百度:侠客行论坛"
+    icon="http://ww1.sinaimg.cn/large/005BYqpggy1fvhchdolnaj30iq0iq75b.jpg"
+    url="https://www.baidu.com"
+    action="web"/>
+</msg>

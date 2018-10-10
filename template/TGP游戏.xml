@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg serviceID="1" templateID="1" action="web" brief="[分享]DNF幸运冒险家起航" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0">
+  <item layout="5">
+    <picture cover="http://gchat.qpic.cn/gchatpic_new/2190632857/2159194399-2935263165-A0ECAC71B9C0A1EA4BA19E464040F7AF/0?" action="web" url="http://1-2018.top" w="0" h="0"/>
+  </item>
+
+  <item layout="0">
+    <hr hidden="false" style="0"/>
+    <title size="20" color="×FF0000">幸运冒险家起航-心悦俱乐部</title>
+  </item>
+
+  <source name="掌上TGP-地下城与勇士官方助手" icon="http://url.cn/52VR8Dg" url="http://url.cn/5kcGIsv" action="app" a_actionData="com.tencent.tgp" i_actionData="tencent1105020678://" appid="1105020678"/>
+</msg>

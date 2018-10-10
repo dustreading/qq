@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg serviceID="4" templateID="2" action="web" brief="12111" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0">
+  <item layout="5"><picture
+    cover="http://gchat.qpic.cn/gchatpic_new/0/0-0-D4FC89B5D12C6EBD412DF895E219E426/0?"
+    src="http://video.momocdn.com/feedvideo/4A/86/4A862325-0602-B23C-FA15-ACBB54F35BA120180825.mp4"
+    preStartPosi="0"
+    preTime="0"
+    preWidth="0"
+    preHeight="0"
+    fullTime="0"
+    busiType="0"
+    isJump2Web="0"/>
+    <title></title>
+  </item><source name="免费群：119699203" icon="http://gchat.qpic.cn/gchatpic_new/1423129933/665180669-2165051699-DD777BDE5A0B5F11E363CC88E5E4AF0E/0?" url="http://qm.qq.com/cgi-bin/qm/qr?k=c2A9B9cQtBU_uN_MB-D53vBGuKij9F6u" action="web" appid="-1"/></msg>
