@@ -1,0 +1,59 @@
+{
+  "id": "666",
+  "result": {
+    "adm_max": 15,
+    "adm_num": 0,
+    "count": 3,
+    "ec": 0,
+    "max_count": 500,
+    "mems": [{
+      "card": "",
+      "flag": 0,
+      "g": 1,
+      "join_time": 1470230884,
+      "last_speak_time": 1470230884,
+      "lv": {
+        "level": 1,
+        "point": 0
+      },
+      "nick": "℡坏尐絯メ",
+      "qage": 7,
+      "role": 0,
+      "tags": "-1",
+      "uin": 2290447229
+    }, {
+      "card": "",
+      "flag": 0,
+      "g": 0,
+      "join_time": 1494341410,
+      "last_speak_time": 1494341516,
+      "lv": {
+        "level": 1,
+        "point": 0
+      },
+      "nick": "T.Mr",
+      "qage": 8,
+      "role": 2,
+      "tags": "-1",
+      "uin": 643111902
+    }, {
+      "card": "",
+      "flag": 0,
+      "g": 1,
+      "join_time": 1539102146,
+      "last_speak_time": 1539208843,
+      "lv": {
+        "level": 1,
+        "point": 0
+      },
+      "nick": "千雪&nbsp;ちゆき",
+      "qage": 5,
+      "role": 2,
+      "tags": "-1",
+      "uin": 674156303
+    }],
+    "search_count": 3,
+    "svr_time": 1539227609,
+    "vecsize": 1
+  }
+}

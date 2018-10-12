@@ -9,6 +9,7 @@ fs.readFile('./draft.xml', function(err, data) {
 
 ws.on('message', data => {
   data = JSON.parse(data);
+  console.log(data);
   ws.send(JSON.stringify({
     "method": "sendMessage",
     "params": {
