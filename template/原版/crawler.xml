@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg serviceID="1" templateID="1" action="web" brief="[分享] 一出好戏 (2018)" sourceMsgId="0" url="http://www.laoliapi.cn/play/55971-0-0.html" flag="0" adverSign="0" multiMsgFlag="0">
+  <item layout="2"><picture cover="http://www.laoliapi.cn/templets/sc44/images/logo.png?171116" w="0" h="0"/>
+    <title>一出好戏 (2018)</title>
+    <summary>一出好戏剧情:马进欠下债务,与远房表弟小兴在底层社会摸爬滚打,习惯性的买彩票,</summary>
+  </item><source
+    name="QQ浏览器"
+    icon="http://url.cn/PWkhNu"
+    url="http://url.cn/UQoBHn"
+    action="app"
+    a_actionData="com.tencent.mtt://http://www.laoliapi.cn/play/55971-0-0.html"
+    i_actionData="tencent100446242://http://www.laoliapi.cn/play/55971-0-0.html"
+    appid="-1"/>
+  </msg>

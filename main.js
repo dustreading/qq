@@ -3,7 +3,7 @@ const fs = require('fs');
 const ws = new WebSocket('ws://localhost:49632/');
 let content = '';
 
-fs.readFile('./draft.xml', function(err, data) {
+fs.readFile('./content.xml', function(err, data) {
   content = data.toString();
 });
 

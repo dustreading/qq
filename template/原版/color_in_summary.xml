@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<msg serviceID="1" templateID="1234" action="plugin" brief="侠客行论坛" sourceMsgId="0" flag="3" adverSign="0" multiMsgFlag="0">
+
+  <item layout="2" bg="http://www.696sq.cn/mn/9.png">
+    <picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=2308355210" />
+    <title>★当前操作者★</title>
+    <summary>账号:2308355210</summary>
+  </item>
+
+  <item layout="6">
+    <summary color="#00C5CD" style="1">
+      借助【黑洞防护】和【核弹】，小可爱没遭遇到反抗，轻松打劫【侠客行】成功！获赞1次，本次获得19344525金币！
+    </summary>
+  <hr/>
+  </item>
+
+  <source name="" icon="" action="plugin" appid="0"/>
+</msg>
